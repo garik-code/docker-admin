@@ -25,12 +25,16 @@ bash install.sh
 
 Login and password: admin
 
+![alt text](grafana.jpeg "Grafana")
+
 
 ## Portainer 
 
 `http://localhost:9000/`
 
 Login and password: admin
+
+![alt text](portainer.jpeg "Portainer")
 
 
 ## Start
