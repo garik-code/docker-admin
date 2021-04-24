@@ -19,12 +19,16 @@ bash install.sh
 # Using 👏
 
 
-Grafana: `http://localhost:3000/`
+## Grafana: 
+
+`http://localhost:3000/`
 
 Login and password: admin
 
 
-Portainer `http://localhost:9000/`
+## Portainer 
+
+`http://localhost:9000/`
 
 Login and password: admin
 
