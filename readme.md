@@ -33,14 +33,15 @@ Login and password: admin
 Login and password: admin
 
 
-## Stop
-
-```
-bash stop.sh
-```
-
 ## Start
 
 ```
 bash start.sh
+```
+
+
+## Stop
+
+```
+bash stop.sh
 ```
