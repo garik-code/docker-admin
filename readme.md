@@ -2,16 +2,8 @@
 
 Install `git`, `docker` and `docker-compose`.
 
-Git clone this repository:
-
 ```
-git clone https://github.com/garik-code/docker-admin
-```
-
-Run bash script:
-
-```
-bash install.sh
+git clone https://github.com/garik-code/docker-admin & cd docker-admin & bash install.sh
 ```
 
 ---
